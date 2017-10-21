@@ -1,0 +1,90 @@
+div h1, h2{
+    text-align: center
+}
+
+div p{
+    text-align: justify;
+}
+
+.encabezado{
+    font-size: 55%;
+    background-color: #FFC300;
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 52%;
+    height: 40px;
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+}
+
+
+.antes{
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 13%;
+    height: 500px;
+    position:relative;
+    left: 43px;
+    top: 40px;
+    font-size:medium;
+    padding: 20px;
+
+}
+
+
+
+.Monopoly{
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 26%;
+    height: 500px;
+    position: absolute;
+    left: 219px;
+    top:47px;
+    font-size:medium;
+    text-align: justify;
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+
+
+.antiguo{
+    position: absolute;
+    top: 380px;
+    left: 70.5px;
+
+}
+
+.Ahora{
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 13%;
+    height: 500px;
+    position:absolute;
+    left: 600px;
+    top:47px;
+    left: 557px;
+    font-size:medium;
+    padding: 20px;
+}
+
+.moderno{
+    position: absolute;
+    top: 380px;
+    left: 575px;
+}
+
+.final{
+    font-size: 55%;
+    background-color: #FFC300;
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 52%;
+    height: 40px;
+    display: inline-block;
+    position: absolute;
+    left: 50px;
+}
